@@ -4,10 +4,10 @@ void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
     home: Scaffold(
-      backgroundColor: Colors.greenAccent,
+      backgroundColor: Colors.blueAccent,
       appBar: AppBar(
         title: const Text("I am Poor"),
-        backgroundColor: Colors.white30,
+        backgroundColor: Colors.white10,
       ),
       body: const Center(
         child: Image(
